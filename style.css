@@ -101,12 +101,17 @@ body {
     cursor: pointer;
 }
 
-.buynow a{
+.buynow a {
     color: white;
 }
 
-.footer{
+.footer {
     width: 100vw;
     height: 10rem;
     background-color: black;
+    color: white;
+    padding: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
