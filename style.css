@@ -61,7 +61,7 @@ body {
 
 .coursebox {
     width: 100vw;
-    height: 100rem;
+    height: 89rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -73,18 +73,17 @@ body {
 }
 
 .boxOne {
-    width: 25vw;
+    width: 27vw;
     height: 24rem;
     background-color: white;
     border: 2px solid #333;
     border-radius: 22px;
     margin-top: 2rem;
     padding: 1rem;
-    cursor: pointer;
 }
 
 .boxOne img {
-    width: 22vw;
+    width: 25vw;
     height: 15rem;
     display: flex;
     margin: auto;
@@ -100,4 +99,8 @@ body {
     margin: auto;
     margin-top: 1rem;
     cursor: pointer;
+}
+
+.buynow a{
+    color: white;
 }
