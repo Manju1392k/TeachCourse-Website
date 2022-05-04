@@ -6,7 +6,7 @@
 
 # 👁️‍🗨️ Preview of Blow Website
 
-https://user-images.githubusercontent.com/66934377/166210662-1b84b9fe-688a-4649-9bae-8e3baf80dd98.mp4
+https://user-images.githubusercontent.com/66934377/166629035-ba53777c-9f73-48b7-b5ef-5feca84268de.mp4
 
 ---
 
