@@ -1,0 +1,70 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    max-width: 100vw;
+    height: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #BF90FF  ;
+    color: black;
+}
+
+.logo img{
+    height: 4rem;
+    border-radius: 50%;
+}
+
+.links a {
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.btns {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 6px;
+    margin-right: 2rem;
+}
+
+.mainbox{
+    width: 100vw;
+    height: 30rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info{
+    width:45vw;
+    height:28rem;
+}
+
+.margin{
+    margin-top: 2px;
+    text-align: center;
+}
+
+.coursebox{
+    width: 100vw;
+    height:100rem;
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+}
+
