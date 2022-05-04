@@ -9,6 +9,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
 }
 
 .navbar{
@@ -68,3 +69,7 @@ body{
     flex-wrap: wrap;
 }
 
+.heading{
+    text-align: center;
+    font-weight: bold;
+}
