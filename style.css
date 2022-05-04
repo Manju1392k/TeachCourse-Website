@@ -104,3 +104,9 @@ body {
 .buynow a{
     color: white;
 }
+
+.footer{
+    width: 100vw;
+    height: 10rem;
+    background-color: black;
+}
