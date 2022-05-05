@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/66934377/166629035-ba53777c-9f73-48b7-
 
 ---
 
-# 🗂️ Framewrok
+# 🗂️ Language
 
 The below table Languages is used in this project. This project is build with **Pure Html,CSS only**.
 
